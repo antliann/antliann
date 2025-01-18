@@ -1,6 +1,6 @@
 ## Hi 👋, I am Anton!
 
-I am a full-stack web developer. I love building web applications, exploring new tools, and creating stunning products!
+I am a full-stack web developer. I love building web applications, exploring new tools, and creating stunning products! Oh, and I am also a ceramic arstist :)
 
 - 🇨🇦 I’m currently based in Vancouver, BC
 - 📫 Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/antliann/)
