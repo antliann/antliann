@@ -6,6 +6,8 @@ Oh, and I am also a ceramic arstist :)
 - 🇨🇦 I’m currently based in Vancouver, BC
 - 📫 Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/antliann/)
 
+Most of my top repos are actually private, so if you're a hiring manager you can just ask me for an access!
+
 ### 🔨&nbsp;&nbsp;My tech stack & tools:
 
 <!--- Frontend -->
