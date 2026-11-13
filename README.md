@@ -1,10 +1,11 @@
 ## Hi 👋, I am Anton!
 
-I am a full-stack web developer. I love building web applications, exploring new tools, and creating stunning products! \
+I am a full-stack web developer. I love building web applications, exploring new tools, and creating stunning products! 
 
-- 🇨🇦 I’m currently based in Canada
 - 📫 Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/antliann/)
+- 🇨🇦 I’m currently based in Canada
 
+Btw, if you are an interviewer coming across this page, most of my repositories are actually private - though I would be more than happy to tell you about them during the call and answer any of your questions!
 
 ### 🔨&nbsp;&nbsp;My tech stack & tools:
 
@@ -25,6 +26,8 @@ I am a full-stack web developer. I love building web applications, exploring new
 <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><img alt="SQL" height="38px" src="./images/tools/sql.svg"></a>&nbsp;&nbsp;
 <a href="https://www.postgresql.org/" target="_blank"><img alt="PostgreSQL" height="36px" src="./images/tools/postgresql.svg"></a>
 <br>
+
+...and many more!
 
 ### 📊&nbsp;&nbsp;GitHub Stats:
 <a href="https://github.com/antliann"><img src="https://raw.githubusercontent.com/antliann/github-stats-transparent/output/generated/overview.svg" alt="Overview" /></a>
