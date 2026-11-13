@@ -2,7 +2,7 @@
 
 I am a full-stack web developer. I love building web applications, exploring new tools, and creating stunning products! \
 
-- 🇨🇦 I’m currently based in Vancouver, BC
+- 🇨🇦 I’m currently based in Canada
 - 📫 Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/antliann/)
 
 
